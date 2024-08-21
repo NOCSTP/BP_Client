@@ -1,0 +1,23 @@
+{
+	"maxTabPlayers": 80,
+	"removeHeader": false,
+	"removeFooter": false,
+	"removeHeads": false,
+	"improvedHeads": true,
+	"removePing": false,
+	"showPingInTab": false,
+	"scalePingDisplay": false,
+	"hideFalsePing": false,
+	"moveTabDown": 10.0,
+	"moveTabBelowBossBars": false,
+	"tabHeaderColor": -2147483648,
+	"tabBodyColor": -2147483648,
+	"tabFooterColor": -2147483648,
+	"tabPlayerListColor": 553648127,
+	"pingColorOne": -15466667,
+	"pingColorTwo": -14773218,
+	"pingColorThree": -4733653,
+	"pingColorFour": -13779,
+	"pingColorFive": -6458098,
+	"pingColorSix": -4318437
+}
